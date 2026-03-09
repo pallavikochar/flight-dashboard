@@ -1,0 +1,9 @@
+date,airline,from_airport,to_airport,distance_km,duration_hr,delay_min,trip_type,dep_time_local,aircraft
+2024-12-22,Turkish Airlines,BOM,IST,4838,7.15,10,College,07:00,A350
+2024-12-23,Turkish Airlines,IST,DFW,10099,13.20,10,College,14:30,A350
+2025-01-08,Southwest,DAL,ORD,1285,2.40,10,College,10:40,A350
+2025-12-27,Cathay Pacific,ORD,HKG,12548,15.55,-5,Leisure,14:45,A350
+2025-12-28,Cathay Pacific,HKG,BOM,4305,6.35,5,College,20:10,A350
+2026-01-22,Cathay Pacific,BOM,HKG,4305,5.25,20,College,01:40,A350
+2026-01-23,Cathay Pacific,HKG,ORD,12548,14.20,0,College,12:35,A350
+2026-03-14,Frontier,ORD,LAX,2805,4.27,,Leisure,19:39,A320
