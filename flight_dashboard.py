@@ -164,7 +164,7 @@ app.layout = html.Div(
                     children=[
                         # Replace src with your own image path or URL
                         html.Img(
-                            src="https://images.pexels.com/photos/912050/pexels-photo-912050.jpeg?auto=compress&cs=tinysrgb&w=80",
+                            src="assets/profile.png",
                             style={
                                 "width": "40px",
                                 "height": "40px",
